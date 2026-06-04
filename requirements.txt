@@ -9,7 +9,9 @@ face-recognition
 setuptools<70.0.0
 
 supabase
+supabase-auth
 bcrypt
+
 
 segno
 pillow
